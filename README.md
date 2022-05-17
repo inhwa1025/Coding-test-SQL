@@ -12,6 +12,8 @@ SQL 코테 문제 연습
 ## Programmers Lv.2
 1. 고양이와 개는 몇 마리 있을까
 2. 동물 수 구하기
+3. 루시와 엘라 찾기
+4. 
 
 
 ## Programmers Lv.3
