@@ -19,6 +19,7 @@ SQL 코테 문제 연습
 ## Programmers Lv.3
 1. 오랜 기간 보호한 동물(1)
 2. 없어진 기록 찾기
+3. 있었는데요 없었습니다
 
 
 ## Programmers Lv.4
