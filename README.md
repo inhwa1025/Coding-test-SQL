@@ -25,6 +25,7 @@ MySQL
 8. 중성화 여부 파악하기
 9. 이름에 el이 들어가는 동물 찾기 
 10. 중복 제거하기 
+11. DATETIME에서 DATE로 형 변환 
 
 
 ## Programmers Lv.3
