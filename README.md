@@ -1,7 +1,10 @@
 # SQL 코테 문제 연습
 MySQL
 
-## Programmers Lv.1
+
+## 기본 문제
+
+### Programmers Lv.1
 1. 모든 레코드 조회하기
 2. 최댓값 구하기
 3. 역순 정렬하기
@@ -14,7 +17,7 @@ MySQL
 10. 상위 N개 레코드
 
 
-## Programmers Lv.2
+### Programmers Lv.2
 1. 고양이와 개는 몇 마리 있을까
 2. 동물 수 구하기
 3. 루시와 엘라 찾기
@@ -28,11 +31,18 @@ MySQL
 11. DATETIME에서 DATE로 형 변환 
 
 
-## Programmers Lv.3
+### Programmers Lv.3
 1. 오랜 기간 보호한 동물(1)
 2. 없어진 기록 찾기
 3. 있었는데요 없었습니다
 4. 오랜 기간 보호한 동물(2) 
 
 
-## Programmers Lv.4
+### Programmers Lv.4
+1. 입양 시각 구하기(2)
+2. 보호소에서 중성화된 동물
+
+
+## ETC.
+1. 2021 Dev-Matching 헤비 유저가 소유한 장소 → Lv.3
+2. 2019 Summer/Winter Coding 우유와 요거가 담긴 장바구니 → Lv.4
