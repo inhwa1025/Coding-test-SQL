@@ -1,12 +1,12 @@
-# Coding-test-SQL
-SQL 코테 문제 연습
-
+# SQL 코테 문제 연습
+MySQL
 
 ## Programmers Lv.1
 1. 모든 레코드 조회하기
 2. 최댓값 구하기
 3. 역순 정렬하기
-4. 이름이 없는 동물의 아이디 
+4. 이름이 없는 동물의 아이디
+5. 이름이 있는 동물의 아이디 
 
 
 ## Programmers Lv.2
