@@ -1,8 +1,9 @@
 # SQL 코테 문제 연습
+MySQL, MariaDB
+
+
+## Programmers
 MySQL
-
-
-## 기본 문제
 
 ### Programmers Lv.1
 1. 모든 레코드 조회하기
@@ -41,4 +42,10 @@ MySQL
 ### Programmers Lv.4
 1. 입양 시각 구하기(2)
 2. 보호소에서 중성화된 동물
-3. 우유와 요거가 담긴 장바구니
+3. 우유와 요거트가 담긴 장바구니
+
+
+## Goorm
+MariaDB, PostgreSQL
+
+1. 공장의 불량률 ➡️ WITH, CASE WHEN
